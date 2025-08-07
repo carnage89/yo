@@ -117,11 +117,11 @@ export function ContactsSection() {
               <h4 className="font-semibold mb-4">Время ответа</h4>
               <p className="text-gray-400 text-sm mb-2">
                 <i className="fas fa-clock mr-2"></i>
-                Отвечаю в течение часа. работаю без выходных
+                Отвечаю в течение часа.
               </p>
               <p className="text-gray-400 text-sm">
                 <i className="fas fa-calendar mr-2"></i>
-                Работаю ПН-СБ с 10:00 до 20:00 (МСК)
+                Работаю без выходных.
               </p>
             </div>
           </div>
@@ -214,10 +214,6 @@ export function ContactsSection() {
                 )}
               </Button>
             </form>
-
-            <p className="text-gray-500 text-sm mt-4 text-center">
-              Отправляя заявку, вы соглашаетесь на обработку персональных данных
-            </p>
           </div>
         </div>
       </div>
