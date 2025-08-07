@@ -33,9 +33,11 @@ Preferred communication style: Simple, everyday language.
 - **Current State**: In-memory storage with database-ready interface for easy migration
 
 ### Deployment Architecture
-- **Serverless Functions**: Netlify Functions for contact form processing and file downloads
-- **Static Hosting**: Optimized for JAMstack deployment with static site generation
-- **Environment Configuration**: Environment-based configuration for development and production
+- **Static Hosting**: Netlify static hosting with SPA routing configuration
+- **Serverless Functions**: Netlify Functions for contact form processing and portfolio downloads
+- **Build Configuration**: Vite build process with dist/public output for Netlify deployment
+- **Environment Variables**: TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID for bot integration
+- **File Structure**: netlify.toml for deployment config, _redirects for SPA routing
 
 ### Key Features
 - **Responsive Design**: Mobile-first approach with adaptive navigation and layouts
