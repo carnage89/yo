@@ -49,7 +49,7 @@ export function HeroSection() {
           </p>
 
           <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto">
-            Создаю современные сайты и Telegram ботов. Опыт работы 1+ год, 4 довольных клиента.
+            Создаю современные сайты и Telegram ботов. Опыт работы 1+ год, 5 довольных клиентов.
             Превращаю ваши идеи в цифровые решения.
           </p>
 
@@ -74,7 +74,7 @@ export function HeroSection() {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mt-8">
             <a
-              href="https://github.com/alexeyrozepin"
+              href="https://github.com/carnage89"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors text-2xl"
@@ -82,7 +82,7 @@ export function HeroSection() {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://t.me/alexey_rozepin"
+              href="https://t.me/diaboliccum"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-accent transition-colors text-2xl"
@@ -90,7 +90,7 @@ export function HeroSection() {
               <i className="fab fa-telegram"></i>
             </a>
             <a
-              href="mailto:alexey.rozepin@example.com"
+              href="mailto:boberbobrovic27@gmail.com"
               className="text-gray-400 hover:text-white transition-colors text-2xl"
             >
               <i className="fas fa-envelope"></i>

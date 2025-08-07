@@ -10,7 +10,7 @@ export function Footer() {
 
           <div className="flex space-x-6">
             <a
-              href="https://github.com/alexeyrozepin"
+              href="https://github.com/carnage89"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -18,7 +18,7 @@ export function Footer() {
               <i className="fab fa-github text-xl"></i>
             </a>
             <a
-              href="https://t.me/alexey_rozepin"
+              href="https://t.me/diaboliccum"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-accent transition-colors"
@@ -26,7 +26,7 @@ export function Footer() {
               <i className="fab fa-telegram text-xl"></i>
             </a>
             <a
-              href="mailto:alexey.rozepin@example.com"
+              href="mailto:boberbobrovic27@gmail.com"
               className="text-gray-400 hover:text-white transition-colors"
             >
               <i className="fas fa-envelope text-xl"></i>
@@ -35,7 +35,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-6 pt-6 text-center">
-          <p className="text-gray-500 text-sm">© 2024 Алексей Розепин. Все права защищены.</p>
+          <p className="text-gray-500 text-sm">© 2025 Алексей Розепин. Все права защищены.</p>
         </div>
       </div>
     </footer>

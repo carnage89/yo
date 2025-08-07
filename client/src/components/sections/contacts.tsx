@@ -86,7 +86,7 @@ export function ContactsSection() {
                   </div>
                   <div>
                     <div className="font-medium">Email</div>
-                    <div className="text-gray-400">alexey.rozepin@example.com</div>
+                    <div className="text-gray-400">boberbobrovic27@gmail.com</div>
                   </div>
                 </div>
 
@@ -96,7 +96,7 @@ export function ContactsSection() {
                   </div>
                   <div>
                     <div className="font-medium">Telegram</div>
-                    <div className="text-gray-400">@alexey_rozepin</div>
+                    <div className="text-gray-400">@diaboliccum</div>
                   </div>
                 </div>
 
@@ -106,7 +106,7 @@ export function ContactsSection() {
                   </div>
                   <div>
                     <div className="font-medium">GitHub</div>
-                    <div className="text-gray-400">github.com/alexeyrozepin</div>
+                    <div className="text-gray-400">@carnage89</div>
                   </div>
                 </div>
               </div>
@@ -117,7 +117,7 @@ export function ContactsSection() {
               <h4 className="font-semibold mb-4">Время ответа</h4>
               <p className="text-gray-400 text-sm mb-2">
                 <i className="fas fa-clock mr-2"></i>
-                Обычно отвечаю в течение 2-3 часов
+                Отвечаю в течение часа. работаю без выходных
               </p>
               <p className="text-gray-400 text-sm">
                 <i className="fas fa-calendar mr-2"></i>

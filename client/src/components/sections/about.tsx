@@ -19,7 +19,7 @@ export function AboutSection() {
 
             <p className="text-gray-300 leading-relaxed">
               Привет! Я Алексей, fullstack разработчик с опытом работы более года.
-              За это время успешно реализовал проекты для 4 клиентов, специализируюсь
+              За это время успешно реализовал проекты для 5 клиентов, специализируюсь
               на создании современных веб-сайтов и Telegram ботов.
             </p>
 
@@ -35,7 +35,7 @@ export function AboutSection() {
                 <div className="text-gray-400">Год опыта</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-accent mb-2">4</div>
+                <div className="text-3xl font-bold text-accent mb-2">5</div>
                 <div className="text-gray-400">Довольных клиента</div>
               </div>
             </div>
